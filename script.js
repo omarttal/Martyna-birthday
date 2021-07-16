@@ -23,7 +23,7 @@ sub.addEventListener("click", function (e) {
   }
 });
 const timer = function () {
-  let countDownDate = new Date("July 16, 2021 18:07:00").getTime();
+  let countDownDate = new Date("July 16, 2021 17:53:00").getTime();
 
   // Update the count down every 1 second
   let x = setInterval(function () {
